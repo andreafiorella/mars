@@ -1,0 +1,3 @@
+MINION_IP = "0.0.0.0"
+MINION_PORT = 8899
+DEFAULT_MODEL_NAME = "sqli-detector-bert"
